@@ -1,0 +1,11 @@
+{
+  "name": "starwake",
+  "private": true,
+  "type": "module",
+  "description": "탑다운 우주 슈터 STARWAKE",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "typecheck": "tsc --noEmit"
+  }
+}
